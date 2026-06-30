@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+src/models/artifacts/*.pt
+eval/results/*.json
+.pytest_cache/
